@@ -1,0 +1,77 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Lab02 main (기본)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "Lab02 assignment_starter",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/assignment/assignment_starter.dart"
+    }
+    ,{
+      "name": "Lab02 step01_variables_types",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/steps/step01_variables_types.dart"
+    }
+    ,{
+      "name": "Lab02 step02a_conditions",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/steps/step02a_conditions.dart"
+    }
+    ,{
+      "name": "Lab02 step02b_loop",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/steps/step02b_loop.dart"
+    }
+    ,{
+      "name": "Lab02 step03a_list",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/steps/step03a_list.dart"
+    }
+    ,{
+      "name": "Lab02 step03b_map",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/steps/step03b_map.dart"
+    }
+    ,{
+      "name": "Lab02 step04_functions",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/steps/step04_functions.dart"
+    }
+    ,{
+      "name": "Lab02 step05_named_parameters",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/steps/step05_named_parameters.dart"
+    }
+    ,{
+      "name": "Lab02 step06_classes_getter",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/steps/step06_classes_getter.dart"
+    }
+    ,{
+      "name": "Lab02 step07_callbacks_bridge",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/steps/step07_callbacks_bridge.dart"
+    }
+    ,{
+      "name": "Lab02 step07a_callback_example",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/steps/step07a_callback_example.dart"
+    }
+  ]
+}
